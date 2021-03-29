@@ -36,7 +36,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.5
 pycrypto==2.6.1
 pycryptodomex==3.7.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 PyMySQL==0.9.3
 python-alipay-sdk==1.10.1
