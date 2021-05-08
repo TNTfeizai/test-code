@@ -21,7 +21,7 @@ django-redis==4.10.0
 djangorestframework==3.10.3
 djangorestframework-jwt==1.11.0
 dnspython==1.16.0
-eventlet==0.25.1
+eventlet==0.31.0
 fdfs-client-py==1.2.6
 gevent==1.4.0
 greenlet==0.4.15
