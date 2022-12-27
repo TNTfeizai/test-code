@@ -60,7 +60,7 @@ pytz==2019.2
 QQLoginTool==0.3.0
 redis==2.10.5
 requests==2.22.0
-setuptools==34.3.2
+setuptools==65.5.1
 six==1.10.0
 traitlets==4.3.3
 urllib3==1.25.4
